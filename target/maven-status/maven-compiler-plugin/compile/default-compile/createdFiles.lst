@@ -1,0 +1,16 @@
+com/sberston/models/Dealer.class
+com/sberston/json/JPerson.class
+com/sberston/models/DealerOrBuilder.class
+com/sberston/models/Car$1.class
+com/sberston/protobuf/PersonDemo.class
+com/sberston/models/AddressOrBuilder.class
+com/sberston/models/Dealer$1.class
+com/sberston/models/Address.class
+com/sberston/models/Dealer$Builder.class
+com/sberston/models/Car$Builder.class
+com/sberston/models/Address$Builder.class
+com/sberston/models/Address$1.class
+com/sberston/protobuf/PerformanceTest.class
+com/sberston/models/CarOrBuilder.class
+com/sberston/models/Car.class
+com/sberston/models/Dealer$ModelDefaultEntryHolder.class
